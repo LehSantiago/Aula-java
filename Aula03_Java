@@ -1,0 +1,16 @@
+package programa;
+
+public class Pricipal {
+	public static void main(String[] args) {
+		System.out.println("OLÁ leticia, tudo bem!!!!");
+		System.out.println("Sua matricula é: 10420655");
+		System.out.println("As aulas começaram dia 08/02");
+		System.out.println("Suas diciplinas são:");
+		System.out.println("\t-Programação de Sistemas:");
+		
+		int sala = 303;
+		
+		System.out.println("\nSua sala é a " + sala + " Não se atrase!");
+		
+	}
+}
